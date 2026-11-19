@@ -20,3 +20,9 @@ For today, we'll once again be applying [UMAP](https://en.wikipedia.org/wiki/Non
 2. Follow the instructions provided in the notebook until you reach the "Linear Regression" section, and then return here.
 
 ---
+### Linear Regression with Mass Spectrometry
+Now that we've taken a look at our data, we'll next try to fit a predictive model to it that can determine if a given sample is from the schizophrenia or control groups. As we covered in lesson 2, by assigning our labels of choice a numerical value, we can then fit a linear regression to those labels and our ion intensities. In theory, we could then provide the ion intensity data of a new patient to this model in order to predict if they were likely to have schizophrenia or not.
+
+1. Return to the Jupyter notebook and follow its instructions until you reach the "Challenges" section, and then return here.
+
+--
