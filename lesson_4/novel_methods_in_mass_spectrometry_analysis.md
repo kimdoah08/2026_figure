@@ -3,7 +3,6 @@
 ## Objectives
 - Visualize mass spectrometry data with UMAP
 - Use linear regression to find predictors of disease state in mass spectrometry data
-- Learn the basics of cross validation
 ---
 ### Updating the Repository
 As with last week, we'll get started today by updating our local repository using the instructions from [lesson 1](../lesson_1/intro_to_stats.md).
@@ -25,4 +24,8 @@ Now that we've taken a look at our data, we'll next try to fit a predictive mode
 
 1. Return to the Jupyter notebook and follow its instructions until you reach the "Challenges" section, and then return here.
 
---
+---
+## Challenges
+These are extra activities which shouldn't take you all that long, but will help reinforce some of the things we've practiced today. We'll discuss them during our next lesson, so don't worry if you aren't able to figure something out.
+1. Split our dataset by if each entry is from layers 1-3 of the prefrontal cortex or layers 4-6, then create a new UMAP and linear classifier to try and determine if each sample is from a control individual or an individual with schizophrenia.
+2. Commit the changes you've made to GitHub.
